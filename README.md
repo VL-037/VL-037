@@ -12,9 +12,9 @@
 
 - 💬 Ask me about `Backend`
 
-- 📫 How to reach me **https://www.linkedin.com/in/vinc**
+- 📫 How to reach me [Linkedin](https://www.linkedin.com/in/vinc), [Email](mailto:vincentlow.037@gmail.com)
 
-- ⚡ Visit my [porto web](https://vinc-personal.netlify.app/)
+- ⚡ Visit my [personal website](https://vinc-personal.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
