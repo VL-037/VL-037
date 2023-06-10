@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Twittur Microservices](https://github.com/VL037-twittur)
 
-- 🌱 I’m currently learning `Spring-Boot` `Golang` `Microservices`
+- 🌱 I’m currently learning `Spring-Boot` `Microservices`
 
 - 📝 I also write articles on [Medium](https://vincentlow037.medium.com/)
 
