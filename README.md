@@ -4,11 +4,13 @@
 <h3 align="center">Backend Engineer from Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://www.uniagents.com/assets/images/skype-session.gif">
 
-- 🔭 I’m currently working on [Twittur Microservices](https://github.com/VL037-twittur)
+- 🔭 I’m currently on [Twittur Microservices](https://github.com/VL037-twittur) project
 
-- 🌱 I’m currently learning `Spring-Boot` `Microservices`
+- 🌱 Now learning `Spring-Boot` `NodeJS` `React` `Microservices`
 
 - 📝 I also write articles on [Medium](https://vincentlow037.medium.com/)
+
+- 📜 I got gigs on fiverr too [Fiverr](https://www.fiverr.com/vincent_low037)
 
 - 💬 Ask me about `Backend`
 
