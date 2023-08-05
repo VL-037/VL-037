@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently on [Twittur Microservices](https://github.com/VL037-twittur) project
 
-- 🌱 Now learning `Golang` `NodeJS` `React` `Microservices`
+- 🌱 Now learning `Golang` `React` `Microservices`
 
 - 📝 I also write articles on [Medium](https://vincentlow037.medium.com/)
 
