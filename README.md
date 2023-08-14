@@ -10,8 +10,6 @@
 
 - 📝 I also write articles on [Medium](https://vincentlow037.medium.com/)
 
-- 📜 I freelance on [Fiverr](https://www.fiverr.com/vincent_low037) & [Upwork](https://www.upwork.com/freelancers/~01038f5f1d1ea5f72f) as well
-
 - 💬 Ask me about `Backend`
 
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/vinc), [Email](mailto:vincentlow.037@gmail.com)
