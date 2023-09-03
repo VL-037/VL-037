@@ -1,7 +1,7 @@
 ![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 
 <h1 align="center">Hola 👋, I'm Vincent Low</h1>
-<h3 align="center">Backend Engineer from Indonesia</h3>
+<h3 align="center">Software Engineer from Indonesia (<a href="https://www.linkedin.com/company/pt--tokopedia">Tokopedia</a>)</h3>
 <img align="right" alt="Coding" width="400" src="https://www.uniagents.com/assets/images/skype-session.gif">
 
 - 🔭 I’m currently on [Twittur Microservices](https://github.com/VL037-twittur) project
